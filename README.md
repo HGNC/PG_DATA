@@ -10,7 +10,7 @@ directory of this repo.
 - Ensure the data.tar.gz archive is compatible to postgresql 17.
 - Keep the filename exactly as specified
 - HGNC internal databases can be found in the University of Cambridge private OneDrive
-and is only available to HGNC members of staff.
+and is only available to HGNC members of staff [DB test data archive](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/kag56_cam_ac_uk/Documents/Docker%20Volume%20Store?csf=1&web=1&e=A7jFug).
 
 ## Reminder of how to create an archive of a Postgresql DB.
 
